@@ -16,7 +16,7 @@ const Header = () => {
           </div>
           <div className="flex flex-row">
             <Image
-              src="/Images/placeholder.png"
+              src="/Images/placeholder.svg"
               alt="location-icon"
               width={20}
               height={20}
